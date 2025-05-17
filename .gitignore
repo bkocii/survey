@@ -1,0 +1,25 @@
+.env
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.sqlite3
+.env
+db.sqlite3
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# virtualenv
+venv/
+.env/
+
+# Node modules (if using npm)
+node_modules/
+
+# Static files
+staticfiles/
